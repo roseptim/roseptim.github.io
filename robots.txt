@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://roseptim.github.io/sitemap.html.gz
+Sitemap: https://roseptim.github.io/app/sitemap.html.gz
+Sitemap: https://roseptim.github.io/assets/sitemap.html.gz
+Sitemap: https://roseptim.github.io/css/sitemap.html.gz
+Sitemap: https://roseptim.github.io/includes/sitemap.html.gz
+Sitemap: https://roseptim.github.io/item/sitemap.html.gz
+Sitemap: https://roseptim.github.io/src/sitemap.html.gz
